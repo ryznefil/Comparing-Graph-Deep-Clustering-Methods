@@ -19,7 +19,7 @@ Graph clustering algorithms categorize objects with similar properties into grou
 - SDCN demonstrated the potential of deep learning methods, outperforming Louvain's Algorithm.
 
 <p align="center">
-  <img src="https://github.com/ryznefil/Comparing-Graph-Deep-Clustering-Methods/blob/main/readme_figure.png" width="50%" />
+  <img src="https://github.com/ryznefil/Comparing-Graph-Deep-Clustering-Methods/blob/main/readme_figure.png" width="70%" />
 </p>
 
 ## Conclusion
