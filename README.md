@@ -18,6 +18,10 @@ Graph clustering algorithms categorize objects with similar properties into grou
 - Deep learning methods, except for SDCN, performed poorly without additional non-graphical features.
 - SDCN demonstrated the potential of deep learning methods, outperforming Louvain's Algorithm.
 
+<p align="center">
+  <img src="https://github.com/ryznefil/Comparing-Graph-Deep-Clustering-Methods/blob/main/readme_figure.png" width="50%" />
+</p>
+
 ## Conclusion
 Classical methods remain superior in precision, but deep learning methods, particularly SDCN, show promise for scalability and performance in graph clustering tasks. The study suggests that the success of deep learning methods may depend on the availability of rich non-graphical features.
 
